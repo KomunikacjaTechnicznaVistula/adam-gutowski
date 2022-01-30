@@ -16,7 +16,4 @@ something something
 
 Something else
 
-**ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
-
-Detailed and technical information is contained in the Workshop Manual which is available from your authorised
-Mini dealer.
+**ℹ️ Tip:** This is a tip.
