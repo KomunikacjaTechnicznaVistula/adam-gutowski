@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Child 5
-parent: Parent 7
+title: Leek
+parent: Plants
 nav_order: 3
 ---
 

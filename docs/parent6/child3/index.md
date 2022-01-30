@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Child 3
+title: Mammals
 nav_order: 3
 has_children: true
-parent: Parent 6
+parent: Animals
 ---
 
 - [Heading](#heading)

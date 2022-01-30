@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parent 2
+title: Emotions
 nav_order: 2
 ---
 

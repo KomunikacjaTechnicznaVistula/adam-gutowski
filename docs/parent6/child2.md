@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Child 2
-parent: Parent 6
+title: Fish
+parent: Animals
 nav_order: 2
 ---
 

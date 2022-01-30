@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parent 1
+title: Things
 nav_order: 1
 ---
 

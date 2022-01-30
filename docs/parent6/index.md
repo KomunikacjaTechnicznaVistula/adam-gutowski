@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parent 6
+title: Animals
 nav_order: 6
 has_children: true
 ---

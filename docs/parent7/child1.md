@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Child 3
-parent: Parent 7
+title: Birch
+parent: Plants
 nav_order: 1
 ---
 

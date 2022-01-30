@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parent 7
+title: Plants
 nav_order: 7
 has_children: true
 ---

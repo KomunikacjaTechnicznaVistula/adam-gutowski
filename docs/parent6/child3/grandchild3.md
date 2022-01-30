@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Grandchild 3
+title: Zebras
 nav_order: 3
-parent: Child 3
-grand_parent: Parent 6
+parent: Mammals
+grand_parent: Animals
 ---
 
 - [Heading](#heading)
