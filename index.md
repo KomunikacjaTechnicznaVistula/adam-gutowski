@@ -6,7 +6,7 @@ description: "Jekyll"
 permalink: /
 ---
 
-![Morris Badge](/assets/images/Morris_badge.png)
+![las](/assets/images/las.png)
 
 # Jekyll
 
