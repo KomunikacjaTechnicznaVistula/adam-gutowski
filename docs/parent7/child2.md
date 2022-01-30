@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Child 4
-parent: parent7
+parent: Parent 7
 nav_order: 2
 ---
 
