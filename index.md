@@ -16,4 +16,4 @@ something something
 
 Something else
 
-**ℹ️ Tip:** This is a tip.
+**ℹ️ Tip:** This is a tip!
