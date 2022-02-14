@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adam Gutowski
+title: How to publish and record a study in Labvanced
 nav_order: 1
 description: "LabVanced"
 permalink: /
