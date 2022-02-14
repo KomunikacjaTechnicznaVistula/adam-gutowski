@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oak
-parent: Plants
+parent: Step-by-step guide
 nav_order: 2
 ---
 

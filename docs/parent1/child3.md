@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leek
-parent: Plants
+parent: Step-by-step guide
 nav_order: 3
 ---
 
