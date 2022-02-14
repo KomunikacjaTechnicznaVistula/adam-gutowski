@@ -7,11 +7,11 @@ nav_order: 1
 
 Go to the Labvanced homepage. On the menu on the left-hand side, click *My Studies*.
 
-![](assets/../../../assets/images/1001.png)
+![](assets/images/1001.png)
 
 You should see the list of your studies. Double-click on the study you want to publish and record. Next, click *Publish & Record* on the left-hand side menu.
 
-![](/images/3.png)
+![](assets/images/3.png)
 
 Now you should see the requirements to publish and record a study. By default, the study design is valid, and you are its owner. To fulfil the requirements, first, click on the icon next to *Description: No keyword(s), No affiliation*.
 
