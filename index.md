@@ -6,7 +6,7 @@ description: "LabVanced"
 permalink: /
 ---
 
-![LabVanced logo](assets/images/labvanced.png)
+![](assets/images/labvanced.png)
 
 <br/><br/>
 
