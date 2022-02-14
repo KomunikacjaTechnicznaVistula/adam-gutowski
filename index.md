@@ -12,7 +12,7 @@ permalink: /
 
 # **Introduction**
 
-**Labvanced** is a platform on which you can create online experiments.
+Labvanced is a platform on which you can create online experiments.
 
 In this guide, you will learn how to publish and record a study you have created.
 
