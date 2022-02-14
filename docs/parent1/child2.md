@@ -11,7 +11,7 @@ You should see a publishing wizard with three sections. In the *Recruiting optio
 
 Click the *Next* button. Now you are in the *License Selection* section. Here, you need to select *Use my current license: Lab/Department License*. To browse other options, you can also click *Explore more license options*.
 
-![](/assets/images/13.png)
+![](assets/images/13.png)
 
 Click the *Next* button. Now you are in the *Confirm & Publish* section. Here, you need to accept all three terms and conditions. Then, click the *Publish* button.
 
