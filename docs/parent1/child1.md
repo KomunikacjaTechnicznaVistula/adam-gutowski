@@ -11,11 +11,11 @@ Go to the Labvanced homepage. On the menu on the left-hand side, click *My Studi
 
 You should see the list of your studies. Double-click on the study you want to publish and record. Next, click *Publish & Record* on the left-hand side menu.
 
-![](/assets/images/3.png)
+![](/images/3.png)
 
 Now you should see the requirements to publish and record a study. By default, the study design is valid, and you are its owner. To fulfil the requirements, first, click on the icon next to *Description: No keyword(s), No affiliation*.
 
-![](/assets/images/43.png)
+![](../assets/images/43.png)
 
 In this section, you need to do two things:
 1. Add at least one keyword. To do it, click on the keyword that you want to add in the drop-down menu in the *Keywords* section.
@@ -23,7 +23,7 @@ In this section, you need to do two things:
 
 Here, you can also set the minimum and maximum duration of your study and give it a description. However, that is not obligatory.
 
-![](/assets/images/51515.png)
+![](../../assets/images/51515.png)
 
 Next, return to the *Publish & Record* section. Click on the icon next to *Variable Check: Not confirmed*.
 
