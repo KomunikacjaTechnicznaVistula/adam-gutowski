@@ -10,7 +10,7 @@ permalink: /
 
 <br/><br/>
 
-# Introduction
+# **Introduction**
 
 **Labvanced** is a platform on which you can create online experiments.
 
