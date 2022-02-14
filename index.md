@@ -6,11 +6,12 @@ description: "LabVanced"
 permalink: /
 ---
 
+![](assets/images/3.png)
+
 ![](assets/images/labvanced.png)
 
 ![](../../assets/images/3.png)
 
-![](assets/images/3.png)
 
 <br/><br/>
 
