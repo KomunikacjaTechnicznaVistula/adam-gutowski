@@ -7,7 +7,7 @@ nav_order: 1
 
 Go to the Labvanced homepage. On the menu on the left-hand side, click *My Studies*.
 
-![](/assets/images/1001.png)
+![](assets/../../../assets/images/1001.png)
 
 You should see the list of your studies. Double-click on the study you want to publish and record. Next, click *Publish & Record* on the left-hand side menu.
 
