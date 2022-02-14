@@ -2,21 +2,13 @@
 layout: default
 title: Adam Gutowski
 nav_order: 1
-description: "Jekyll"
+description: "LabVanced"
 permalink: /
 ---
 
-- [Jekyll](#jekyll)
-  - [Jekyll 2](#jekyll-2)
+![LabVanced logo](assets/images/labvanced.png)
 
-![las](/assets/images/las.png)
+# Introduction
 
-# Jekyll
 
-something something something
 
-## Jekyll 2
-
-Something else
-
-**ℹ️ Tip:** This is a tip.
