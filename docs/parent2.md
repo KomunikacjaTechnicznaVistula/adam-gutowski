@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emotions
+title: Glossary
 nav_order: 2
 ---
 

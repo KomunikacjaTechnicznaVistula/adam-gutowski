@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cities
+title: Useful links
 nav_order: 3
 ---
 
