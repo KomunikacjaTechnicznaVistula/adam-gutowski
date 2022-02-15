@@ -7,4 +7,4 @@ has_children: true
 
 # **Step-by step guide**
 
-In this guide, you will learn how to publish and record a [study](https://www.youtube.com/watch?v=E6G3ZI9JKBQ) you have created.
+In this guide, you will learn how to publish and record a [study you have created](https://www.youtube.com/watch?v=E6G3ZI9JKBQ).
