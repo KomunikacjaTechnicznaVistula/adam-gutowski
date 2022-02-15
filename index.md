@@ -6,14 +6,11 @@ description: "LabVanced"
 permalink: /
 ---
 
-
-![](assets/images/labvanced.png)
-
-
-<br/><br/>
-
 # **About Labvanced**
 
 Labvanced is a platform on which you can create online experiments.
 
+<br/><br/>
+
+![](assets/images/labvanced.png)
 
