@@ -5,7 +5,7 @@ parent: Step-by-step guide
 nav_order: 1
 ---
 
-Go to the [Labvanced homepage](https://www.labvanced.com/) and log in. On the menu on the left-hand side, click *My Studies*.
+Go to the [Labvanced homepage](https://www.labvanced.com/) and log in. On the menu on the left-hand side, click **My Studies**.
 
 ![](../../assets/images/1001.png)
 
