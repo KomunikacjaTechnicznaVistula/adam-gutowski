@@ -8,7 +8,7 @@ permalink: /
 
 # **About Labvanced**
 
-Labvanced is a platform on which you can create online experiments.
+[Labvanced](https://www.labvanced.com/) is a platform on which you can create online experiments.
 
 <br/><br/>
 
