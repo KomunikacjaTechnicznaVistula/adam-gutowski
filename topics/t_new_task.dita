@@ -2,11 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_new_task">
     <title>New Task</title>
-    <shortdesc/>
+    <shortdesc>12345</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context>Hello world!<p/></context>
         <steps importance="optional">
             <step>
                 <cmd/>
