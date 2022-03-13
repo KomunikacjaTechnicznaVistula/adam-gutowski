@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <meta>
-        <filters directoryPatterns="" filePatterns="\Qgithub.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <filters directoryPatterns="" filePatterns="\QFirstProject.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.open.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>key.editor.save.option.pane</String>
+                        <Boolean>false</Boolean>
+                    </entry>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../my_first_map.ditamap</String>
+                                    <String>my_first_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>r_reference (PDF (CSS Formatter - HTML5))</String>
-                                        <String>r_reference (WebHelp Responsive)</String>
+                                        <String>my_first_map (WebHelp Responsive)</String>
+                                        <String>my_first_map (PDF (CSS Formatter - HTML5))</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -27,49 +39,6 @@
                                 <field name="scenarioStorageLocations">
                                     <list>
                                         <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>topics/r_reference.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>r_reference (PDF (CSS Formatter - HTML5))</String>
-                                        <String>r_reference (WebHelp Responsive)</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../topics/r_reference.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>r_reference (PDF (CSS Formatter - HTML5))</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
@@ -93,10 +62,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\output</String>
+                                    <String>C:\Users\x\Desktop\out\pdf-css-html5</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\temp</String>
+                                    <String>C:\Users\x\Desktop\temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>pdf-css-html5</String>
@@ -133,7 +102,17 @@
                                     <null/>
                                 </field>
                                 <field name="publishingTemplateDataPO">
-                                    <null/>
+                                    <publishingTemplate>
+                                        <field name="templateRoot">
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen</String>
+                                        </field>
+                                        <field name="descriptorRelativePath">
+                                            <String>oxygen-with-colors.opt</String>
+                                        </field>
+                                        <field name="isCustomTemplate">
+                                            <Boolean>false</Boolean>
+                                        </field>
+                                    </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
                                     <null/>
@@ -175,7 +154,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>r_reference (PDF (CSS Formatter - HTML5))</String>
+                                    <String>my_first_map (PDF (CSS Formatter - HTML5))</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -267,10 +246,10 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\output</String>
+                                    <String>C:\Users\x\Desktop\out\webhelp-responsive</String>
                                 </field>
                                 <field name="tempDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\temp</String>
+                                    <String>C:\Users\x\Desktop\temp</String>
                                 </field>
                                 <field name="transtype">
                                     <String>webhelp-responsive</String>
@@ -309,10 +288,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/aquamarine</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>ashes-tiles.opt</String>
+                                            <String>aquamarine-tree.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>
@@ -335,36 +314,6 @@
                                     <list>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>args.xhtml.classattr</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>yes</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>yes</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>yes</String>
-                                                    <String>no</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
                                                 <String>force-unique</String>
                                             </field>
                                             <field name="description">
@@ -383,6 +332,36 @@
                                                 <String-array>
                                                     <String>true</String>
                                                     <String>false</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>args.xhtml.classattr</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>yes</String>
+                                                    <String>no</String>
                                                     <null/>
                                                 </String-array>
                                             </field>
@@ -420,7 +399,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>r_reference (WebHelp Responsive)</String>
+                                    <String>my_first_map (WebHelp Responsive)</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -504,7 +483,7 @@
             </serialized>
         </options>
     </meta>
-    <projectTree name="github.xpr">
+    <projectTree name="FirstProject.xpr">
         <folder path="."/>
     </projectTree>
 </project>
