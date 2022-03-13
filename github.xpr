@@ -10,7 +10,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../my_first_map.ditamap</String>
+                                    <String>my_first_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -34,6 +34,29 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>topics/r_reference.dita</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>r_reference (PDF (CSS Formatter - HTML5))</String>
+                                        <String>r_reference (WebHelp Responsive)</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../my_first_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -93,7 +116,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\output</String>
+                                    <String>C:\Users\x\Desktop\adam-gutowski\docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>C:\Users\x\Desktop\adam-gutowski\temp</String>
@@ -267,7 +290,7 @@
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\Users\x\Desktop\adam-gutowski\output</String>
+                                    <String>C:\Users\x\Desktop\adam-gutowski\docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>C:\Users\x\Desktop\adam-gutowski\temp</String>
