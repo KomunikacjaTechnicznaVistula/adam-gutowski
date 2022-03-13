@@ -6,5 +6,8 @@
     </meta>
     <projectTree name="github.xpr">
         <folder path="."/>
+        <folder path="../topics/"/>
+        <file name="../FirstProject.xpr"/>
+        <file name="../my_first_map.ditamap"/>
     </projectTree>
 </project>
