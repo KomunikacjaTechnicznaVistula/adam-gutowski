@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_reference">
-    <title>Reference</title>
-    <shortdesc/>
+    <title id="title_axh_rzg_wsb">Reference</title>
+    <shortdesc id="shortdesc_am1_4zg_wsb"/>
     <refbody>
         <table frame="all" rowsep="1" colsep="1" id="table_wbf_rvz_vsb">
-            <title>My table</title>
+            <title id="title_dmw_qzg_wsb">My table</title>
             <tgroup cols="8">
                 <colspec colname="c1" colnum="1" colwidth="1*"/>
                 <colspec colname="c2" colnum="2" colwidth="1*"/>
@@ -70,7 +70,9 @@
                         <entry/>
                         <entry/>
                         <entry/>
-                        <entry/>
+                        <entry>
+                            <codeblock id="codeblock_vzy_p1h_wsb">&lt;topicref href="file.pdf" format="pdf" navtitle="PDF document"/></codeblock>
+                        </entry>
                     </row>
                 </tbody>
             </tgroup>
