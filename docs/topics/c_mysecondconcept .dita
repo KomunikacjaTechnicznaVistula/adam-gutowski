@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="myfirstconcept">
+    <title>MyFirstConcept</title>
+    <shortdesc>Description</shortdesc>
+    <conbody>
+        <p> Test </p>
+        <p><codeblock id="codeblock_ovk_jpz_vsb"/><codeph>
+                <!--dfsfds--></codeph>
+        </p>
+        <p>
+            <xref href="http://www.wikipedia.com" format="html" scope="external">Link to
+                wikipedia.com</xref>
+        </p>
+    </conbody>
+
+    <map>
+        <title>My Document</title>
+        <topicref href="topics/c_topic1.dita" keyscope="A">
+            <keydef keys="product-name">
+                <topicmeta>
+                    <keywords>
+                        <keyword>Galaxy S7</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+        <topicref href="topics/c_topic1.dita" keyscope="B">
+            <keydef keys="product-name">
+                <topicmeta>
+                    <keywords>
+                        <keyword>iPhone 7</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+    </map>
+
+</concept>

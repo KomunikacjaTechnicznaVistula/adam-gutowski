@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_reference">
+    <title id="title_axh_rzg_wsb">Reference</title>
+    <shortdesc id="shortdesc_am1_4zg_wsb"/>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_wbf_rvz_vsb">
+            <title id="title_dmw_qzg_wsb">My table</title>
+            <tgroup cols="8">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="newCol4" colnum="4" colwidth="1*"/>
+                <colspec colname="c4" colnum="5" colwidth="1*"/>
+                <colspec colname="c5" colnum="6" colwidth="1*"/>
+                <colspec colname="c6" colnum="7" colwidth="1*"/>
+                <colspec colname="c7" colnum="8" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry namest="c3" nameend="newCol4"/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry/>
+                        <entry morerows="1"/>
+                        <entry namest="c3" nameend="newCol4"/>
+                        <entry/>
+                        <entry>dgfgdg</entry>
+                        <entry/>
+                        <entry><xref
+                                href="https://www.google.com/search?client=firefox-b-d&amp;q=how+to+create+a+branch+in+github"
+                                format="html" scope="external"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>s</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry namest="c3" nameend="newCol4"/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>ddd</entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry namest="c3" nameend="newCol4"/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>&lt;topicref href="http://www.wikipedia.com"
+                            format="html"scope="external" navtitle="wikipedia.com"/></entry>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                        <entry namest="c3" nameend="newCol4"/>
+                        <entry/>
+                        <entry/>
+                        <entry/>
+                        <entry>
+                            <codeblock id="codeblock_vzy_p1h_wsb">&lt;topicref href="my_first_map.pdf" format="pdf" navtitle="PDF document"/></codeblock>
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
