@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary Entry//EN" "glossaryentry.dtd">
+<glossentry id="g_abs">
+    <glossterm>anti-lock braking system</glossterm>
+    <glossdef>Safety anti-skid braking system used on aircraft and on land vehicles, such as cars,
+        motorcycles, trucks, and buses.</glossdef>
+    <glossBody>
+        <glossSurfaceForm>anti-lock braking system (ABS)</glossSurfaceForm>
+        <glossAlt>
+            <glossAcronym>ABS</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>

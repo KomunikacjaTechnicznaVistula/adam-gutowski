@@ -4,7 +4,8 @@
     <title>New Task</title>
     <shortdesc>12345</shortdesc>
     <taskbody>
-        <context>Hello world!<p/></context>
+        <context>Hello world! anti-lock braking system (ABS)<p/></context>
+        <term keyref="g_abs"/>
         <steps importance="optional">
             <step>
                 <cmd/>

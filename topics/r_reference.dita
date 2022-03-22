@@ -34,7 +34,9 @@
                         <entry/>
                         <entry>dgfgdg</entry>
                         <entry/>
-                        <entry/>
+                        <entry><xref
+                                href="https://www.google.com/search?client=firefox-b-d&amp;q=how+to+create+a+branch+in+github"
+                                format="html" scope="external"/></entry>
                     </row>
                     <row>
                         <entry/>
@@ -61,7 +63,8 @@
                         <entry/>
                         <entry/>
                         <entry/>
-                        <entry/>
+                        <entry>&lt;topicref href="http://www.wikipedia.com"
+                            format="html"scope="external" navtitle="wikipedia.com"/></entry>
                     </row>
                     <row>
                         <entry/>
@@ -71,7 +74,7 @@
                         <entry/>
                         <entry/>
                         <entry>
-                            <codeblock id="codeblock_vzy_p1h_wsb">&lt;topicref href="file.pdf" format="pdf" navtitle="PDF document"/></codeblock>
+                            <codeblock id="codeblock_vzy_p1h_wsb">&lt;topicref href="my_first_map.pdf" format="pdf" navtitle="PDF document"/></codeblock>
                         </entry>
                     </row>
                 </tbody>

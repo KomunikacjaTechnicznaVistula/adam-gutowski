@@ -31,4 +31,10 @@
             </relcell>
         </relrow>
     </reltable>
+
+
+    <keydef keys="g_myTerm" href="topics/g_myTerm.dita"/>
+
+
+
 </map>

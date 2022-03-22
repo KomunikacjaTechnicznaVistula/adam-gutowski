@@ -5,9 +5,34 @@
     <shortdesc>Description</shortdesc>
     <conbody>
         <p> Test </p>
-        <p><codeblock id="codeblock_ovk_jpz_vsb">r</codeblock><codeph>
+        <p><codeblock id="codeblock_ovk_jpz_vsb">&lt;xref href="http://www.wikipedia.com" format="html"
+scope="external">Link to wikipedia.com&lt;/xref></codeblock><codeph>
                 <!--dfsfds--></codeph>
         </p>
-        <p> s </p>
+        <p>&lt;topicrefhref="topics/myfirstconcept.dita"/>    &lt;topicref keyref="myfirstconcept"/>  <xref href="http://www.wikipedia.com" format="html"
+            scope="external">Link to wikipedia.com</xref> </p>
     </conbody>
+    
+    <map>
+        <title>My Document</title>
+        <topicref href="topics/c_topic1.dita" keyscope="A">
+            <keydef keys="product-name">
+                <topicmeta>
+                    <keywords>
+                        <keyword>Galaxy S7</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+        <topicref href="topics/c_topic1.dita" keyscope="B">
+            <keydef keys="product-name">
+                <topicmeta>
+                    <keywords>
+                        <keyword>iPhone 7</keyword>
+                    </keywords>
+                </topicmeta>
+            </keydef>
+        </topicref>
+    </map>
+    
 </concept>
