@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Poznań</title>
+    <shortdesc>An important cultural and business centre</shortdesc>
+    <conbody>
+        <p>Population: 570,352 <image href="../images/poznan.jpg" id="image_u24_yd2_zsb">
+                <alt>Poznań</alt>
+            </image></p>
+    </conbody>
+</concept>

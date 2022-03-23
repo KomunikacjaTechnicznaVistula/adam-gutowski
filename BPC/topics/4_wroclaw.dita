@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Wrocław</title>
+    <shortdesc>The largest city in Silesia</shortdesc>
+    <conbody>
+        <p>Population: 634,893 <image href="../images/wroclaw.jpg" id="image_yft_xd2_zsb">
+                <alt>Wrocław</alt>
+            </image></p>
+    </conbody>
+</concept>

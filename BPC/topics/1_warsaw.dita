@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Warsaw</title>
+    <shortdesc>The capital and largest city in Poland</shortdesc>
+    <conbody>
+        <p>Population: 1,702,139 <image href="../images/warsaw.jpg" id="image_xtm_5d2_zsb">
+                <alt>Warsaw</alt>
+            </image></p>
+    </conbody>
+</concept>

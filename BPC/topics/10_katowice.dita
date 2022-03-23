@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Katowice</title>
+    <shortdesc>The most populous city in Poland </shortdesc>
+    <conbody>
+        <p>Population: 317,316 <image href="../images/katowice.jpg" id="image_r5x_pg2_zsb">
+                <alt>Katowice</alt>
+            </image></p>
+    </conbody>
+</concept>

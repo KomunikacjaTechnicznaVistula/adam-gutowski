@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/x/Desktop/BPC/map.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">Adam Gutowski</author>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">Map</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Map</title>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Warsaw</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The capital and largest city in Poland</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Łódź</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A former industrial centre</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Kraków</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">One of the oldest cities in Poland</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Wrocław</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The largest city in Silesia</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Poznań</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">An important cultural and business centre</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Gdańsk</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A city on the Baltic coast of northern Poland</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Szczecin</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">A major seaport</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Bydgoszcz</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The co-capital (with Toruń) of the Kuyavian-Pomeranian voivodeship</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Lublin</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The largest Polish city east of the Vistula river</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_11" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Katowice</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The most populous city in Poland </shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_12" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Białystok</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">The largest city in northeastern Poland</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="warsaw"><resourceid appid="warsaw" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Częstochowa</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Known for the famous Pauline monastery of Jasna Góra</shortdesc><author class="- topic/author ">Adam Gutowski</author></topicmeta></topicref>
+    
+    
+    
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Warsaw</ph></title>
+    <shortdesc class="- topic/shortdesc ">The capital and largest city in Poland</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 1,702,139 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/warsaw.jpg" id="unique_1_Connect_42_image_xtm_5d2_zsb" nd:nd-id="image_xtm_5d2_zsb" placement="inline">
+                <alt class="- topic/alt ">Warsaw</alt>
+            </image></p>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_2" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Łódź</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A former industrial centre</desc></link></linkpool></related-links></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Łódź</ph></title>
+    <shortdesc class="- topic/shortdesc ">A former industrial centre</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 768,755 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/lodz.jpg" id="unique_2_Connect_42_image_gjw_vd2_zsb" nd:nd-id="image_gjw_vd2_zsb" placement="inline">
+                <alt class="- topic/alt ">Łódź</alt>
+            </image></p>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_1" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Warsaw</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">The capital and largest city in Poland</desc></link></linkpool></related-links></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Kraków</ph></title>
+    <shortdesc class="- topic/shortdesc ">One of the oldest cities in Poland</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 755,050 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/krakow.jpg" id="unique_3_Connect_42_image_vxt_wd2_zsb" nd:nd-id="image_vxt_wd2_zsb" placement="inline">
+                <alt class="- topic/alt ">Kraków</alt>
+            </image></p>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_4" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Częstochowa</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Known for the famous Pauline monastery of Jasna Góra</desc></link></linkpool></related-links></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Wrocław</ph></title>
+    <shortdesc class="- topic/shortdesc ">The largest city in Silesia</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 634,893 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/wroclaw.jpg" id="unique_5_Connect_42_image_yft_xd2_zsb" nd:nd-id="image_yft_xd2_zsb" placement="inline">
+                <alt class="- topic/alt ">Wrocław</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Poznań</ph></title>
+    <shortdesc class="- topic/shortdesc ">An important cultural and business centre</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 570,352 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/poznan.jpg" id="unique_6_Connect_42_image_u24_yd2_zsb" nd:nd-id="image_u24_yd2_zsb" placement="inline">
+                <alt class="- topic/alt ">Poznań</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Gdańsk</ph></title>
+    <shortdesc class="- topic/shortdesc ">A city on the Baltic coast of northern Poland</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 461,865 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/gdansk.jpg" id="unique_7_Connect_42_image_ot3_zd2_zsb" nd:nd-id="image_ot3_zd2_zsb" placement="inline">
+                <alt class="- topic/alt ">Gdańsk</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Szczecin</ph></title>
+    <shortdesc class="- topic/shortdesc ">A major seaport</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 407,811 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/szczecin.jpg" id="unique_8_Connect_42_image_qkr_ng2_zsb" nd:nd-id="image_qkr_ng2_zsb" placement="inline">
+                <alt class="- topic/alt ">Szczecin</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Bydgoszcz</ph></title>
+    <shortdesc class="- topic/shortdesc ">The co-capital (with Toruń) of the Kuyavian-Pomeranian voivodeship</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 366,452 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/bydgoszcz.jpg" id="unique_9_Connect_42_image_pxh_4g2_zsb" nd:nd-id="image_pxh_4g2_zsb" placement="inline">
+                <alt class="- topic/alt ">Bydgoszcz</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Lublin</ph></title>
+    <shortdesc class="- topic/shortdesc ">The largest Polish city east of the Vistula river</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 360,044 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/lublin.jpg" id="unique_10_Connect_42_image_p41_pg2_zsb" nd:nd-id="image_p41_pg2_zsb" placement="inline">
+                <alt class="- topic/alt ">Lublin</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Katowice</ph></title>
+    <shortdesc class="- topic/shortdesc ">The most populous city in Poland </shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 317,316 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/katowice.jpg" id="unique_11_Connect_42_image_r5x_pg2_zsb" nd:nd-id="image_r5x_pg2_zsb" placement="inline">
+                <alt class="- topic/alt ">Katowice</alt>
+            </image></p>
+    </conbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool "><link class="- topic/link " format="dita" href="#unique_8" mapclass="- map/topicref " role="friend" scope="local" type="concept"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Szczecin</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">A major seaport</desc></link></linkpool></related-links></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Białystok</ph></title>
+    <shortdesc class="- topic/shortdesc ">The largest city in northeastern Poland</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 291,855 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/bialystok.jpg" id="unique_12_Connect_42_image_hsq_qg2_zsb" nd:nd-id="image_hsq_qg2_zsb" placement="inline">
+                <alt class="- topic/alt ">Białystok</alt>
+            </image></p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="warsaw" oid="warsaw" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Częstochowa</ph></title>
+    <shortdesc class="- topic/shortdesc ">Known for the famous Pauline monastery of Jasna Góra</shortdesc><prolog class="- topic/prolog "><author class="- topic/author ">Adam Gutowski</author></prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Population: 248,125 <image class="- topic/image " href="file:/C:/Users/x/Desktop/BPC/images/czestochowa.jpg" id="unique_4_Connect_42_image_ldl_rg2_zsb" nd:nd-id="image_ldl_rg2_zsb" placement="inline">
+                <alt class="- topic/alt ">Częstochowa</alt>
+            </image></p>
+    </conbody>
+</concept></map>

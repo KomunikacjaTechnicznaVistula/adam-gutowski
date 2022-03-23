@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Gdańsk</title>
+    <shortdesc>A city on the Baltic coast of northern Poland</shortdesc>
+    <conbody>
+        <p>Population: 461,865 <image href="../images/gdansk.jpg" id="image_ot3_zd2_zsb">
+                <alt>Gdańsk</alt>
+            </image></p>
+    </conbody>
+</concept>

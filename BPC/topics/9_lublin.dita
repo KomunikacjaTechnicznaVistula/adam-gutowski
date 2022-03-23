@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Lublin</title>
+    <shortdesc>The largest Polish city east of the Vistula river</shortdesc>
+    <conbody>
+        <p>Population: 360,044 <image href="../images/lublin.jpg" id="image_p41_pg2_zsb">
+                <alt>Lublin</alt>
+            </image></p>
+    </conbody>
+</concept>

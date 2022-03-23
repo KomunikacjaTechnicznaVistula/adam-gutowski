@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Kraków</title>
+    <shortdesc>One of the oldest cities in Poland</shortdesc>
+    <conbody>
+        <p>Population: 755,050 <image href="../images/krakow.jpg" id="image_vxt_wd2_zsb">
+                <alt>Kraków</alt>
+            </image></p>
+    </conbody>
+</concept>

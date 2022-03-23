@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Map</title>
+    <topicmeta>
+        <author>Adam Gutowski</author>
+    </topicmeta>
+    <topicref href="topics/1_warsaw.dita"/>
+    <topicref href="topics/2_lodz.dita"/>
+    <topicref href="topics/3_krakow.dita"/>
+    <topicref href="topics/4_wroclaw.dita"/>
+    <topicref href="topics/5_poznan.dita"/>
+    <topicref href="topics/6_gdansk.dita"/>
+    <topicref href="topics/7_szczecin.dita"/>
+    <topicref href="topics/8_bydgoszcz.dita"/>
+    <topicref href="topics/9_lublin.dita"/>
+    <topicref href="topics/10_katowice.dita"/>
+    <topicref href="topics/11_bialystok.dita"/>
+    <topicref href="topics/12_czestochowa.dita"/>
+    
+    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="topics/1_warsaw.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/2_lodz.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/3_krakow.dita" linking="sourceonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/12_czestochowa.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/7_szczecin.dita" linking="targetonly"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/10_katowice.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+    
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Częstochowa</title>
+    <shortdesc>Known for the famous Pauline monastery of Jasna Góra</shortdesc>
+    <conbody>
+        <p>Population: 248,125 <image href="../images/czestochowa.jpg" id="image_ldl_rg2_zsb">
+                <alt>Częstochowa</alt>
+            </image></p>
+    </conbody>
+</concept>

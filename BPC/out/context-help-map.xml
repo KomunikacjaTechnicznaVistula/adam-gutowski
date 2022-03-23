@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="warsaw" path="topics/1_warsaw.html"/>
+   <appContext helpID="warsaw" path="topics/2_lodz.html"/>
+   <appContext helpID="warsaw" path="topics/3_krakow.html"/>
+   <appContext helpID="warsaw" path="topics/4_wroclaw.html"/>
+   <appContext helpID="warsaw" path="topics/5_poznan.html"/>
+   <appContext helpID="warsaw" path="topics/6_gdansk.html"/>
+   <appContext helpID="warsaw" path="topics/7_szczecin.html"/>
+   <appContext helpID="warsaw" path="topics/8_bydgoszcz.html"/>
+   <appContext helpID="warsaw" path="topics/9_lublin.html"/>
+   <appContext helpID="warsaw" path="topics/10_katowice.html"/>
+   <appContext helpID="warsaw" path="topics/11_bialystok.html"/>
+   <appContext helpID="warsaw" path="topics/12_czestochowa.html"/>
+   <appContext helpID="warsaw" path="topics/1_warsaw.html"/>
+   <appContext helpID="warsaw" path="topics/2_lodz.html"/>
+   <appContext helpID="warsaw" path="topics/3_krakow.html"/>
+   <appContext helpID="warsaw" path="topics/12_czestochowa.html"/>
+   <appContext helpID="warsaw" path="topics/7_szczecin.html"/>
+   <appContext helpID="warsaw" path="topics/10_katowice.html"/>
+</map>

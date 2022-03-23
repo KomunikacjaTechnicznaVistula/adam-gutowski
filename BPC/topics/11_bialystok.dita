@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Białystok</title>
+    <shortdesc>The largest city in northeastern Poland</shortdesc>
+    <conbody>
+        <p>Population: 291,855 <image href="../images/bialystok.jpg" id="image_hsq_qg2_zsb">
+                <alt>Białystok</alt>
+            </image></p>
+    </conbody>
+</concept>

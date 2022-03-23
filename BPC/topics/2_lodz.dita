@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Łódź</title>
+    <shortdesc>A former industrial centre</shortdesc>
+    <conbody>
+        <p>Population: 768,755 <image href="../images/lodz.jpg" id="image_gjw_vd2_zsb">
+                <alt>Łódź</alt>
+            </image></p>
+    </conbody>
+</concept>

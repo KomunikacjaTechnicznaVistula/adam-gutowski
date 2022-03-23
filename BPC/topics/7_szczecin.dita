@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Szczecin</title>
+    <shortdesc>A major seaport</shortdesc>
+    <conbody>
+        <p>Population: 407,811 <image href="../images/szczecin.jpg" id="image_qkr_ng2_zsb">
+                <alt>Szczecin</alt>
+            </image></p>
+    </conbody>
+</concept>

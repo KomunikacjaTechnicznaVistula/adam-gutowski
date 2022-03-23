@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="warsaw">
+    <title>Bydgoszcz</title>
+    <shortdesc>The co-capital (with Toruń) of the Kuyavian-Pomeranian voivodeship</shortdesc>
+    <conbody>
+        <p>Population: 366,452 <image href="../images/bydgoszcz.jpg" id="image_pxh_4g2_zsb">
+                <alt>Bydgoszcz</alt>
+            </image></p>
+    </conbody>
+</concept>
