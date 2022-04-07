@@ -1,8 +1,8 @@
 ---
 layout: default
-title: How to publish and record a study in Labvanced
+title: Introduction
 nav_order: 1
-description: "Labvanced"
+description: "Introduction"
 permalink: /
 ---
 
